@@ -1,0 +1,19 @@
+# Archivos de base de datos
+moral_behaviors.db
+moral_behaviors.csv
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Codespaces specifics
+.vscode/
